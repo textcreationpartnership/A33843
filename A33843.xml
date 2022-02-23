@@ -1,0 +1,534 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Collection of papers relating to the present juncture of affairs in England</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 68 KB of XML-encoded text transcribed from 22 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A33843</idno>
+            <idno type="STC">Wing C5169B</idno>
+            <idno type="STC">ESTC R5138</idno>
+            <idno type="EEBO-CITATION">11184727</idno>
+            <idno type="OCLC">ocm 11184727</idno>
+            <idno type="VID">46601</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A33843)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 46601)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1438:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Collection of papers relating to the present juncture of affairs in England</title>
+               </titleStmt>
+               <editionStmt>
+                  <edition>The third edition.</edition>
+               </editionStmt>
+               <extent>34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by Richard Janeway ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>First in a series of 12 collections issued in 1688-1689 under title: A collection of papers relating to the present juncture of affairs in England; and reissued in 1689 under title: A compleat collection of papers, in twelve parts, relating to the great revolutions in England and Scotland.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+                  <note>The humble petition of seven bishops to His Majesty -- Articles recommended by the Archbishop of Canterbury -- Proposals of the Archbishop, with some other bishops to His Majesty -- Petition of the lords spiritual and temporal for calling a free Parliament : with His Majesty's gracious answer --Vindication of the aforesaid petition -- Extract of the States General, their resolution -- The Prince of Orange, his letter to the English army -- Account of a design to poison the Prince of Orange before he came out of Holland -- A relation of a strange meteor, representing a crown of light, seen in the air near the city of Orange -- Lord Delamere's speech to his tenants -- The Prince of Denmark's letter to the King -- The Lord Churchil's letter to the King --Princess Anne's letter to the Queen -- A memorial of the Protestants of England to the Prince and Princess of Orange -- Prince of Orange, his declaration of Novemb. 28, 1688 for Sherborn Castle.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Revolution of 1688 --  Sources.</term>
+               <term>Great Britain --  History --  William and Mary, 1689-1702 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:46601:1" rendition="simple:additions"/>
+            <pb facs="tcp:46601:1"/>
+            <p>A Collection of Papers Relating to the Preſent Juncture of Affairs in <hi>England.</hi>
+            </p>
+            <list>
+               <head>VIZ.</head>
+               <item>1. The Humble Petition of Seven Biſhops to his Majeſty.</item>
+               <item>2. Articles recommended by the Archbiſhop of <hi>Canterbury,</hi> to all the Biſhops and Clergy within his Juriſdiction.</item>
+               <item>3. Propoſals of the Arch-Biſhop, with ſome orher Biſhops, to his Majeſty.</item>
+               <item>4. Petition of the Lords Spiritual and Temporal, for Calling a <hi>Free Parliament:</hi> With his Majeſty's gracious Anſwer.</item>
+               <item>5. Vindication of the aforeſaid Petition.</item>
+               <item>6. Extract of the <hi>States General</hi> their Reſolution.</item>
+               <item>7. The Prince of <hi>Orange</hi> his Letter to the Engliſh Army.</item>
+               <item>8. Account of a Deſign to poiſon the Prince of <hi>Orange</hi> before he came out of <hi>Holland.</hi>
+               </item>
+               <item>9. A Relation of a ſtrange Meteor, repreſenting a Crown of Light, ſeen in the Air near the City of <hi>Orange.</hi>
+               </item>
+               <item>10. Lord <hi>Delamere</hi>'s Speech to his Tenants.</item>
+               <item>11. The Prince of <hi>Denmark</hi>'s Letter to the King.</item>
+               <item>12. The Lord <hi>Churchil</hi>'s Letter to the King.</item>
+               <item>13. Princeſs <hi>Anne</hi>'s Letter to the Queen.</item>
+               <item>14. A Memorial of the Proteſtants of <hi>England,</hi> to the Prince and Princeſs of <hi>Orange.</hi>
+               </item>
+               <item>15. Prince of <hi>Orange</hi> his Declaration of <hi>Novemb.</hi> 28. 1688. from <hi>Sherborn-Caſtle.</hi>
+               </item>
+            </list>
+            <p>The Third Edition.</p>
+            <p>Licenſed and Entred according to Order.</p>
+            <p>
+               <hi>London</hi> printed, and are to be ſold by <hi>Richard Janeway</hi> in Queen's-head-Court in <hi>Pater-noſter-Row,</hi> 1689.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:46601:2"/>
+            <pb n="1" facs="tcp:46601:2"/>
+            <head>To the King's Moſt Excellent Majeſty,</head>
+            <head type="sub">The Humble Petition of <hi>William</hi> Arch-Biſhop of <hi>Canterbury,</hi> and divers of the Suffragan Biſhops of that Province, (now preſent with him) in be<g ref="char:EOLhyphen"/>half of themſelves, and others of their abſent Bre<g ref="char:EOLhyphen"/>thren, and of the Clergy of their reſpective Dio<g ref="char:EOLhyphen"/>ceſſes.</head>
+            <opener>Humbly ſheweth,</opener>
+            <p>THAT the great averſeneſs they find in them<g ref="char:EOLhyphen"/>ſelves to the diſtributing and publiſhing in all their Churches your Majeſty's late Declaration for <hi>Liberty of Conſcience,</hi> proceeds neither from any want of Duty and Obedience to your Majeſty, (our Holy Mother the Church of <hi>England,</hi> being both in her Principles and in her conſtant Practice unqueſtionably Loyal; and having, to her great Honour, been more than once publickly acknowledg'd to be ſo by your Gra<g ref="char:EOLhyphen"/>cious Majeſty;) Nor yet from any want of due tender<g ref="char:EOLhyphen"/>neſs to Diſſenters, in relation to whom they are willing to come to ſuch a Temper as ſhall be thought ſit, when that Matter ſhall be conſidered and ſettled in Parlia<g ref="char:EOLhyphen"/>ment and Convocation. But among many other Conſi<g ref="char:EOLhyphen"/>derations, from this eſpecially, becauſe that Declaration is founded upon ſuch a Diſpenſing Power as has been often declared Illegal in Parliament, and particularly in the Years 1662, and 1672, and in the beginning of
+<pb n="2" facs="tcp:46601:3"/> your Majeſty's Reign; and is a matter of ſo great Mo<g ref="char:EOLhyphen"/>ment and Conſequence to the whole Nation, both in Church and State, that your Petitioners cannot in Pru<g ref="char:EOLhyphen"/>dence, Honour, or Conſcience, ſo far make themſelves Parties to it, as the diſtribution of it all over the Na<g ref="char:EOLhyphen"/>tion, and the ſolemn publication of it once and again, even in God's Houſe, and in the Time of his Divine Service, muſt amount to in common and reaſonable Conſtruction.</p>
+            <p>
+               <hi>Your Petitioners therefore most humbly and earneſtly beſeech your Majeſty, that you will be graciouſly pleaſed, not to inſist upon their diſtributing and reading your Majeſty's ſaid Declaration.</hi>
+            </p>
+            <closer>And Your Petitioners, as in Duty bound, ſhall ever pray.
+<signed>
+                  <list>
+                     <item>Will. <hi>Cant.</hi>
+                     </item>
+                     <item>Will. <hi>Aſaph.</hi>
+                     </item>
+                     <item>Fr. <hi>Ely.</hi>
+                     </item>
+                     <item>Jo. <hi>Ciceſtr.</hi>
+                     </item>
+                     <item>Tho. <hi>Bathon. &amp; Wellen.</hi>
+                     </item>
+                     <item>Tho. <hi>Peterburgen.</hi>
+                     </item>
+                     <item>Jonath. <hi>Briſtol.</hi>
+                     </item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>His Majeſties Anſwer was to this effect.</head>
+            <p>
+               <hi>I Have heard of this before, but did not believe it. I did not expect this from the Church of</hi> England, <hi>eſpecially from ſome of you. If I change my Mind, you ſhall hear from me; if not, I expect my Command ſhall be obeyed.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <div type="letter">
+               <pb n="3" facs="tcp:46601:3"/>
+               <head>THE ARTICLES Recommended by the ARCH-BISHOP of <hi>CANTERB<g ref="char:V">Ʋ</g>RY</hi> To all the <hi>Biſhops</hi> within his <hi>Metropolitan Juriſdiction,</hi> the <hi>16th</hi> of <hi>July,</hi> 1688.</head>
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>
+                  <hi>YEſterday the Arch-Biſhop of</hi> Canterbury <hi>delivered the</hi> Articles <hi>which I ſend you incloſed, to thoſe Bi<g ref="char:EOLhyphen"/>ſhops who are at preſent in this place; and ordered Copies of them to be likewiſe ſent in his Name to the abſent Bi<g ref="char:EOLhyphen"/>ſhops. By the Contents of them you will ſee that the Storm in which he is, does not frighten him from doing his Duty; but rather awakens him to do it with ſo much the more vi<g ref="char:EOLhyphen"/>gour: and indeed, the Zeal that he expreſſes in theſe Arti<g ref="char:EOLhyphen"/>cles, both againſt the Corruptions of the Church of</hi> Rome <hi>on the one hand, and the unhappy Differences that are a<g ref="char:EOLhyphen"/>mong</hi> Proteſtants <hi>on the other, are ſuch Apoſtolical Things, that all good Men rejoice to ſee ſo great a Prelate at the Head of our Church, who in this Critical Time has had the Courage to do his Duty in ſo ſignal a manner. I am,</hi>
+               </p>
+               <closer>
+                  <salute>Sir,</salute> 
+                  <signed>Yours.</signed>
+                  <dateline>
+                     <hi>London,</hi> 
+                     <date>
+                        <hi>July</hi> 27. 1688.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="document">
+               <pb n="4" facs="tcp:46601:4"/>
+               <head>Some Heads of Things to be more fully inſiſted upon by the Biſhops in their Addreſſes to the Clergy and Peo<g ref="char:EOLhyphen"/>ple of their reſpective Dioceſſes.</head>
+               <p n="1">I. THat the Clergy often read over the Forms of their Or<g ref="char:EOLhyphen"/>dination; and ſeriouſly conſider, what Solemn Vows and Profeſſions they made therein to God and his Church, to<g ref="char:EOLhyphen"/>gether with the ſeveral Oaths and Subſcriptions they have ta<g ref="char:EOLhyphen"/>ken and made upon divers occaſions.</p>
+               <p n="2">II. That in Compliance with thoſe and other Obligations, they be active and zealous in all the Parts and Inſtances of their Duty, and eſpecially ſtrict and exact in all holy Converſation, that ſo they may become Examples to the Flock.</p>
+               <p n="3">III. To this end, that they be conſtantly Reſident upon their Cures in their incumbent Houſes; and keep ſober Hoſpitality there according to their Ability.</p>
+               <p n="4">IV. That they diligently <hi>Catechiſe</hi> the Children and Youth of their Pariſhes (as the <hi>Rubrick</hi> of the <hi>Common-Prayer-Book,</hi> and the <hi>59th Canon</hi> enjoyn) and ſo prepare them to be brought in due time to <hi>Confirmation,</hi> when there ſhall be Opportunity; and that they alſo at the ſame time expound the Grounds of Religion and the common Chriſtianity, in the Method of the Catechiſm, for the Inſtruction and Benefit of the whole Pariſh, teaching them what they are to believe, and what to do, and what to pray for; and particularly often and earneſtly incul<g ref="char:EOLhyphen"/>cating upon the Importance and Obligation of their Baptiſmal Vows.</p>
+               <p n="5">V. That they perform the daily Office publickly (with all Decency, Affection and Gravity) in all Market and other Great Towns, and even in Villages, and leſs populous Places, bring People to publick Prayers as frequently as may be; eſpe<g ref="char:EOLhyphen"/>cially on ſuch Days and at ſuch Times as the <hi>Rubrick</hi> and <hi>Ca<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#MURP" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ns</hi> appointed on Holy Days, and their Eves, on <hi>Ember</hi> and <hi>Rogation</hi> Days, on Wedneſdays and Fridays in each Week, and eſpecially in <hi>Advent</hi> and <hi>Lent.</hi>
+               </p>
+               <p n="6">VI. That they uſe their utmoſt Endeavour, both in their Sermons and by private Applications, to prevail with ſuch of their Flock as are of competent Age, to receive frequently
+<pb n="5" facs="tcp:46601:4"/> the <hi>Holy Communion;</hi> and to this end, that they adminiſter it in the greater Towns once in every Month, and even in the leſſer too, if Communicants may be procured, or how-ever as often as they may: and that they take all due Care, both by Preaching and otherwiſe, to prepare all for the worthy recei<g ref="char:EOLhyphen"/>ving of it.</p>
+               <p n="7">VII. That in their Sermons they teach and inform their People (four times a Year at the leaſt, as what the <hi>Canons</hi> re<g ref="char:EOLhyphen"/>quire) that all Uſurp'd and Foreign Juriſdiction is for moſt Juſt Cauſes taken away and aboliſh'd in this Realm, and no manner of Obedience or Subjection due to the ſame, or to any that pretend to act by virtue of it: but that the King's Power being in his Dominions higheſt under God, they upon all Oc<g ref="char:EOLhyphen"/>caſions perſwade the People to Loyalty and Obedience to his Majeſty in all things Lawful, and to patient Submiſſion in the reſt; promoting (as far as in them lies) the publick Peace and Quiet of the World.</p>
+               <p n="8">VIII. That they maintain fair Correſpondence (full of the kindeſt Reſpects of all ſorts) with the Gentry and Perſons of Quality in their Neighbourhood, as being deeply ſenſible what reaſonable Aſſiſtance and Countenance this poor Church hath received from them in her Neceſſities.</p>
+               <p n="9">IX. That they often exhort all thoſe of our Communion, to continue ſtedfaſt to the end in their moſt Holy Faith, and conſtant to their Profeſſion; and to that end, to take heed of all Seducers, and eſpecially of Popiſh Emiſſaries, who are now in great numbers gone forth amongſt them, and more buſie and active than ever. And that they take all occaſions to convince our own Flock, that 'tis not enough for them to be Members of an Excellent Church, rightly and duly Refor<g ref="char:EOLhyphen"/>med, both in Faith and Worſhip, unleſs they alſo do reform and amend their own Lives, and ſo order their Converſation in all things as becomes the Goſpel of Chriſt.</p>
+               <p n="10">X. And foraſmuch as thoſe Romiſh Emiſſaries, like the Old Serpent, <hi>Inſidiantur Calcaneo,</hi> are wont to be moſt buſie and troubleſome to our People at the end of their Lives, labour<g ref="char:EOLhyphen"/>ing to unſettle and perplex them in time of Sickneſs, and at the hour of Death; that therefore all who have the Cure of Souls, be more eſpecially vigilant over them at that dangerous Seaſon; that they ſtay not till they be ſent for, but enquire out the Sick in their reſpective Pariſhes, and viſit them frequently:
+<pb n="6" facs="tcp:46601:5"/> that they examine them particularly concerning the ſtate of their Souls, and inſtruct them in their Duties, and ſettle them in their Doubts, and comfort them in their Sorrows and Suffe<g ref="char:EOLhyphen"/>rings, and pray often with them and for them; and by all the Methods which our Church preſcribes, prepare them for the due and worthy receiving of the Holy Euchariſt, the Pledg of their happy Reſurrection: thus with their utmoſt diligence, watch<g ref="char:EOLhyphen"/>ing over every Sheep within their Fold (eſpecially in that cri<g ref="char:EOLhyphen"/>tical Moment) leſt thoſe Evening Wolves devour them.</p>
+               <p n="11">XI. That they alſo walk in Wiſdom towards thoſe that are not of Our Communion: and if there be in their Pariſhes any ſuch, that they neglect not frequently to confer with them in the Spirit of Meekneſs, ſeeking by all good Ways and Means to gain and win them over to our Communion: More eſpecial<g ref="char:EOLhyphen"/>ly that they have a very tender regard to our Brethren the Proteſtant Diſſenters; that upon occaſion offered, they viſit them at their Houſes, and receive them kindly at their own, and treat them fairly where-ever they meet them, diſcourſing calmly and civilly with them; perſwading them (if it may be) to a full Compliance with our Church, or at leaſt, that where<g ref="char:EOLhyphen"/>to we have already attained, we may all walk by the ſame Rule, and mind the ſame thing. And in order hereunto that they take all opportunities of aſſuring and convincing them, that the Biſhops of this Church are really and ſincerely irreconcilea<g ref="char:EOLhyphen"/>ble Enemies to the Errors, Superſtitions, Idolatries and Ty<g ref="char:EOLhyphen"/>rannies of the Church of <hi>Rome;</hi> and that the very unkind Jea<g ref="char:EOLhyphen"/>louſies which ſome have had of us to the contrary were altoge<g ref="char:EOLhyphen"/>ther groundleſs.</p>
+               <p>And in the laſt place, that they warmly and moſt affectio<g ref="char:EOLhyphen"/>nately exhort them to join with us in daily fervent Prayer to the God of Peace, for an Univerſal Bleſſed Uuion of all Re<g ref="char:EOLhyphen"/>formed Churches, both at Home and Abroad, againſt our com<g ref="char:EOLhyphen"/>mon Enemies, and that all they who do confeſs the Holy Name of our dear Lord, and do agree in the Truth of his Holy Word, may alſo meet in one Holy Communion, and live in perfect Unity and Godly Love.</p>
+            </div>
+         </div>
+         <div type="letter">
+            <pb n="7" facs="tcp:46601:5"/>
+            <head>An Account of the late <hi>PROPOSALS</hi> of the Arch-Biſhop of <hi>Canterbury,</hi> with ſome other Biſhops, to his Majeſty: In a LETTER to <hi>M. B.</hi> Eſq;</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>I Am much ſurprized at the ill Conſtructions ſome People make of the Actions of thoſe Biſhops who have lately wait<g ref="char:EOLhyphen"/>ed upon the King; eſpecially conſidering that moſt of them are the very Men, who not many Months ago ap<g ref="char:EOLhyphen"/>peared ſo publickly and ſo courageouſly, even to the hazard of all the Intereſts they had in this World, in defence of our Prote<g ref="char:EOLhyphen"/>ſtant Religion, and the Laws of the Land.</p>
+            <p>In order to the removing all groundleſs Jealouſies, and unrea<g ref="char:EOLhyphen"/>ſonable Surmiſes, in an Affair of ſo great Conſequence, which our Popiſh Enemies will, I am ſure, be very ready to foment and keep up, I have here ſent you the Heads of thoſe Matters which were propoſed by them to the King.</p>
+            <p>They waited upon him, not as a Party ſeparate either from the Nobility or Gentry, whom they could (I believe) have wiſhed his Majeſty would rather have called for at this Juncture; or from the reſt of the Biſhops or Clergy of <hi>England;</hi> but as Per<g ref="char:EOLhyphen"/>ſons whom the King was pleaſed, upon Reaſons known only to his Royal Breaſt, to command to attend upon him.</p>
+            <p>The Heads which I ſend you are not taken from any Copy of the Paper which my Lords the Biſhops preſented to the King. I underſtand that all their Lordſhips have been extreamly careful to prevent the publiſhing of any Copies, and that they ſtill re<g ref="char:EOLhyphen"/>fuſe to communicate any, tho they now lie under no Obligati<g ref="char:EOLhyphen"/>ons to the contrary. However I do aſſure you with all faithful<g ref="char:EOLhyphen"/>neſs, that theſe Heads which I am now ſending you, are true Contents, obtained by another Method, which in prudence you will imagine not ſit for me to diſcloſe.</p>
+            <p>You have already been told from me, that every one of theſe Biſhops were ſent for up out of their Dioceſſes by Expreſſes from
+<pb n="8" facs="tcp:46601:6"/> his Majeſty, whom they firſt waited on in a Body, on Friday the <hi>28th</hi> of <hi>September.</hi> I cannot, upon the ſtricteſt inquiry, find that any thing paſſed betwixt the King and them, at that firſt atten<g ref="char:EOLhyphen"/>dance upon him, beſides general Expreſſions of Favour and Pro<g ref="char:EOLhyphen"/>tection from his Majeſty, and general returns of Duty and Loy<g ref="char:EOLhyphen"/>alty from the Biſhops. This was matter of Admiration to us all here, who could not believe but that the King had other In<g ref="char:EOLhyphen"/>tentions of a nearer and more particular Concern, when he firſt reſolved to ſend ſo far for ſome of theſe Biſhops: but theſe Alterations in Councils are Things not fit for you or I to med<g ref="char:EOLhyphen"/>dle with.</p>
+            <p>Hower, my Lords the Biſhops were not ſatisfied herewith, concluding (as I ſuppoſe) that his Majeſty would not have ſent for them ſo far, if he had not intended to have adviſed with them in this Juncture, and to give them the liberty of offering him ſuch Counſels as they thought neceſſary at this time: And there<g ref="char:EOLhyphen"/>fore when his Grace my Lord Archbiſhop of <hi>Canterbury</hi> waited on the King alone the firſt time, on Sunday morning, <hi>Sept.</hi> 30. being indiſpoſed when the other Biſhops attended on Friday, their Lordſhips did, by my Lord of <hi>Canterbury,</hi> intimate their Thoughts about that Affair, and their readineſs to the King, who was pleaſed not only to permit them to give him the beſt and moſt particular Advices, but to encourage them to do it with all the freedom that was neceſſary for the preſent occaſion.</p>
+            <p>Upon this Royal Invitation their Lordſhips aſſembled toge<g ref="char:EOLhyphen"/>ther the next day at my Lord of <hi>Canterbury</hi>'s Palace, and prepa<g ref="char:EOLhyphen"/>red, upon the moſt mature deliberation, ſuch Matters as they judged neceſſary for his Majeſty's Knowledge and Conſideration: And on the Wedneſday after waited on the King in a Body, when his Grace in his own, and in the name of the reſt of the Biſhops then preſent, did, in a moſt excellent Speech, repreſent to his Majeſty ſuch things as were thought by them abſolutely neceſ<g ref="char:EOLhyphen"/>ſary to the Settlement of the Nation, amidſt the preſent Di<g ref="char:EOLhyphen"/>ſtractions, and to the publick Intereſt of Church and State.</p>
+            <p>I am aſſured that his Grace delivered himſelf upon this Cri<g ref="char:EOLhyphen"/>tical Occaſion, as with all dutifulneſs to his Majeſty, ſo with all the readineſs and the courage that did become ſuch an Apoſto<g ref="char:EOLhyphen"/>lical Arch-Biſhop as God hath bleſt our Church of <hi>England</hi> with at this Time.</p>
+            <p>You muſt not expect here his excellent Words, but an Abridg<g ref="char:EOLhyphen"/>ment of them, according to my Talent, in a meaner Stile.</p>
+            <pb facs="tcp:46601:6"/>
+            <pb facs="tcp:46601:7"/>
+            <floatingText xml:lang="eng" type="document">
+               <body>
+                  <p n="1">
+                     <pb n="9" facs="tcp:46601:7"/>
+                     <hi>I.</hi> Firſt, the Biſhops thought fit to repreſent in general to his Ma<g ref="char:EOLhyphen"/>jeſty, That it was neceſſary for Him to reſtore all things to the ſtate in which He found them when He came to the Crown, by committing all Offices and Places of Truſt in the Government, to ſuch of the Nobility and Gentry as were qualified for them according to the Laws of this Kingdom; and by Redreſſing and Removing ſuch Grievances as were generally complain'd of.</p>
+                  <p n="2">
+                     <hi>II. Particularly,</hi> That his Majeſty would Diſſolve the Eccleſiaſti<g ref="char:EOLhyphen"/>cal Commiſſion, and promiſe to His People never to Erect any ſuch Court for the future.</p>
+                  <p n="3">
+                     <hi>III.</hi> That He would not only put an effectual ſtop to the iſſuing forth of any Diſpenſations, but would Call in, and Cancel all thoſe which had ſince his coming to the Crown been obtained from Him.</p>
+                  <p n="4">
+                     <hi>IV.</hi> That he would Reſtore the <g ref="char:V">Ʋ</g>niverſities to their Legal State, and to their Statutes and Cuſtoms, and would particularly Reſtore the Ma<g ref="char:EOLhyphen"/>ſter of <hi>Magdalen Colledge</hi> in <hi>Cambridge,</hi> to the Profits of his Ma<g ref="char:EOLhyphen"/>ſterſhip, which he had been ſo long Deprived of, by an Illegal Suſpen<g ref="char:EOLhyphen"/>ſion; and the Ejected Preſident and Fellows of <hi>Magdalen Colledge</hi> in <hi>Oxford,</hi> to their Properties in that Colledge: And, that He would not permit any Perſons to enjoy any of the Preferments in either <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>verſity, but ſuch as are qualiſied by the Statutes of the <g ref="char:V">Ʋ</g>niverſities, the particular Statutes of their ſeveral Foundations, and the Laws of the Land.</p>
+                  <p n="5">
+                     <hi>V.</hi> That He would ſuppreſs the Jeſuits Schools opened in this City, or elſewhere, and grant no more Licenſes for ſuch Schools as are ap<g ref="char:EOLhyphen"/>parently againſt the Laws of this Nation, and His Majeſty's True Intereſt.</p>
+                  <p n="6">
+                     <hi>VI.</hi> That He would ſend Inhibitions after thoſe Four <hi>Romiſh Bi<g ref="char:EOLhyphen"/>ſhops,</hi> who under the Title of <hi>Apoſtolick Vicars,</hi> did preſume to Exerciſe within this Kingdom ſuch Juriſdictions as are by the Laws of the Land Inveſted in the Biſhops of the <hi>Church of England,</hi> and ought not to be Violated or Attempted by them.</p>
+                  <p n="7">
+                     <hi>VII.</hi> That He would ſuffer no more <hi>Quo Warranto's</hi> to be iſſued out againſt any Corporations, but would reſtore to thoſe Corporations which had been already diſturbed, their ancient Charters, Priviledges, Grants, and Immunities, and Condemn all thoſe late Illegal Regula<g ref="char:EOLhyphen"/>tions of Corporations, by putting them into their late Flouriſhing Con<g ref="char:EOLhyphen"/>dition, and Legal Eſtabliſhment.</p>
+                  <p n="8">
+                     <hi>VIII.</hi> That He would fill up all the Vacant Biſhopricks in <hi>England</hi> and <hi>Ireland,</hi> with Perſons duly qualified according to the Laws: and would eſpecially take into His Conſideration the See of <hi>York,</hi> whoſe
+<pb n="10" facs="tcp:46601:8"/> want of an Archbiſhop is very prejudicial to that whole Province.</p>
+                  <p n="9">
+                     <hi>IX.</hi> That He would Act. no more upon a Diſpenſing Power, nor inſiſt upon it; but permit that Affair at the firſt Seſſion of a Parliament to be fairly Stated and Debated, and Settled by Act of Parliament.</p>
+                  <p n="10">
+                     <hi>X.</hi> That upon the Reſtoration of Corporations to their Ancient Charters, and Burroughs to their Preſcriptive Rights, He would Or<g ref="char:EOLhyphen"/>der Writs to be iſſued out for a fair and free Parliament, and ſuffer it to Sit to Redreſs all Grievances, to Settle Matters in Church and State upon juſt and ſolid Foundations, and to Eſtabliſh a due Liberty of Conſcience.</p>
+                  <p n="11">
+                     <hi>XI. Laſtly, and above all,</hi> That His Majeſty would permit ſome of His Biſhops, to lay ſuch Motives and Arguments before him, as might by the Bleſſing of GOD, bring back His Majeſty unto the Com<g ref="char:EOLhyphen"/>munion of Our Holy Church of <hi>England,</hi> into whoſe Catholick Faith He had been Baptized, in which He had been Educated, and to which it was their earneſt and daily Prayer to Almighty GOD, that His Majeſty might be Reunited.</p>
+               </body>
+            </floatingText>
+            <p>All theſe Counſels were concluded with a Prayer to GOD, in whoſe Hands the Hearts of Kings are, for a good Effect upon them; eſpecially the laſt, about bringing the King back to the Proteſtant Religion.</p>
+            <p>And now, Sir, I cannot but ask you, What grounds there are for any Mens Jealouſies of the Biſhops Proceedings? Pray ſhew this Letter to all your Friends, that ſome may lay down their Fears, and others may have this Antidote againſt taking any up. I do aſſure you, and I am certain I have the beſt grounds in the World for my aſſurance, That the Biſhops will never ſtir one lot from their PETITION; but that they will, whenever that happy Opportunity ſhall offer itſelf, let the Proteſtant Diſſenters find that they will be better than their Word given in their Fa<g ref="char:EOLhyphen"/>mous PETITION.</p>
+            <p>In the mean time let You and I, Commend the Prudence of theſe Excellent Biſhops, Admire their Courage, and Cel<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>brate their juſt Praiſes, and never forget to offer up moſt fervent Thanks to GOD, for his Adorning the Church of <hi>England,</hi> at this Juncture, with ſuch Eminent Apoſtolical Biſhops. I am with all Reſpect.</p>
+            <closer>
+               <signed>Yours, N. N.</signed>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="11" facs="tcp:46601:8"/>
+            <head>The PETITION of the Lords Spiritual and Temporal for the Calling of a <hi>Free Par<g ref="char:EOLhyphen"/>liament:</hi> Together with his Majeſty's Graci<g ref="char:EOLhyphen"/>ous Anſwer to their Lordſhips.</head>
+            <div type="petition">
+               <head>To the KING's moſt Excellent Majeſty, The Humble Petition of the Lords Spiritual and Temporal, Whoſe Names are Subſcribed.</head>
+               <opener>
+                  <salute>May it pleaſe your Majeſty,</salute>
+               </opener>
+               <p>WE your Majeſty's moſt Loyal Subjects, in a deep Senſe of the Miſeries of a War now breaking forth in the Bowels of this your Kingdom, and of the Danger to which your Majeſty's Sacred Perſon is thereby like to be Ex<g ref="char:EOLhyphen"/>poſed, and alſo of the Diſtractions of your People, by reaſon of their preſent Grievances, do think our ſelves bound in Con<g ref="char:EOLhyphen"/>ſcience of the Duty we owe to God, and our Holy Religion, to your Majeſty, and our Country, moſt humbly to offer to your Majeſty, That in our Opinion, the only viſible Way to preſerve your Majeſty, and this your Kingdom, would be the Calling of a Parliament, Regular and Free in all its Circum<g ref="char:EOLhyphen"/>ſtances.</p>
+               <p>
+                  <hi>We therefore do moſt earneſtly beſeech your Majeſty, That you would be graciouſly pleaſed, with all ſpeed, to Call ſuch a Par<g ref="char:EOLhyphen"/>liament, wherein we ſhall be moſt ready to promote ſuch Coun<g ref="char:EOLhyphen"/>ſels and Reſolutions of Peace and Settlement in Church and State, as may conduce to your Majeſty's Honour and Safety, and to the quieting the Minds of your People.</hi>
+               </p>
+               <pb n="12" facs="tcp:46601:9"/>
+               <p>
+                  <hi>We do likeliſe humbly beſeech your Majeſty, in the mean time, to uſe ſuch means for the preventing the Effuſion of Chriſtian Blood, as to your Majeſty ſhall ſeem moſt meet.</hi>
+               </p>
+               <closer>And Your Petitioners ſhall ever pray, <hi>&amp;c.</hi>
+                  <signed>
+                     <list>
+                        <item>W. <hi>Cant.</hi>
+                        </item>
+                        <item>
+                           <hi>Grafton.</hi>
+                        </item>
+                        <item>
+                           <hi>Ormond.</hi>
+                        </item>
+                        <item>
+                           <hi>Dorſet.</hi>
+                        </item>
+                        <item>
+                           <hi>Clare.</hi>
+                        </item>
+                        <item>
+                           <hi>Clarendon.</hi>
+                        </item>
+                        <item>
+                           <hi>Burlington.</hi>
+                        </item>
+                        <item>
+                           <hi>Angleſey.</hi>
+                        </item>
+                        <item>
+                           <hi>Rocheſter.</hi>
+                        </item>
+                        <item>
+                           <hi>Newport.</hi>
+                        </item>
+                        <item>Nom. <hi>Ebor.</hi>
+                        </item>
+                        <item>W. <hi>Aſaph.</hi>
+                        </item>
+                        <item>Fran. <hi>Ely.</hi>
+                        </item>
+                        <item>Tho. <hi>Roffen.</hi>
+                        </item>
+                        <item>Tho. <hi>Petriburg.</hi>
+                        </item>
+                        <item>Tho. <hi>Oxon.</hi>
+                        </item>
+                        <item>
+                           <hi>Paget.</hi>
+                        </item>
+                        <item>
+                           <hi>Chandois.</hi>
+                        </item>
+                        <item>
+                           <hi>Oſulſton.</hi>
+                        </item>
+                     </list>
+                  </signed>
+                  <dateline>Preſented by the Arch-Biſhop of <hi>Canterbury,</hi> the Arch-Biſhop of <hi>York</hi> Elect, the Biſhop of <hi>Ely,</hi> and the Biſhop of <hi>Rocheſter,</hi> 
+                     <date>the <hi>17th</hi> of <hi>November,</hi> 1688.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="letter">
+               <head>His Majeſty's moſt Gracious Anſwer.</head>
+               <opener>
+                  <salute>My LORDS,</salute>
+               </opener>
+               <p>WHAT You ask of Me, I moſt paſſionately deſire: And I promiſe You, <hi>upon the Faith of a King,</hi> That I will have a <hi>Parliament,</hi> and ſuch an One as You ask for, as ſoon as ever the Prince of <hi>Orange</hi> has quitted this Realm: For, How is it poſſible a <hi>Parliament</hi> ſhould be <hi>Free in all its Circum<g ref="char:EOLhyphen"/>ſtances,</hi> as You Petition for, whil'ſt an Enemy is in the Kingdom, and can make a Return of near an Hun<g ref="char:EOLhyphen"/>dred Voices?</p>
+            </div>
+            <div type="license">
+               <p>The Lords Petition, with the King's Anſwer, may be printed, <hi>Novemb.</hi> 20. 1688.</p>
+            </div>
+         </div>
+         <div type="defense">
+            <pb n="13" facs="tcp:46601:9"/>
+            <head>A Modeſt Vindication of the Petition of the Lords Spiritual and Temporal for the Calling of a Free Parliament.</head>
+            <p>THIS Defence is grounded upon three Fundamental Principles:</p>
+            <list>
+               <item>I. <hi>The Right of Petitioning.</hi>
+               </item>
+               <item>II. <hi>The Neceſſity.</hi>
+               </item>
+               <item>III. <hi>The Duty.</hi>
+               </item>
+            </list>
+            <p n="1">I. It is the undoubted Right of the Subjects to Petition, be<g ref="char:EOLhyphen"/>ing founded upon an Act of Parliament, and the higheſt Rea<g ref="char:EOLhyphen"/>ſon in the World; for that is a very monſtrous Government, where the People muſt not approach their King, and acquaint him with their Grievances. The People have the greateſt Property in the Land, and therefore the moſt concern'd when a Foreign Enemy is upon it; their Welfare is the Supream Law, and yet they muſt not deſire to meet in order to conſult their own Preſervation. The Jeſuits (the ſworn Enemies to the Engliſh Nation) will take care of us, and our Poſterity; therefore why ſhould we trouble our ſelves at this Juncture? They can levy Mony with a Proclamation, they can diſpenſe with all Laws, and what ſhould we do with a Parliament, when the whole Statute-Book ſerves for no other End but to wipe the Tails of theſe Reverend <hi>Satyrs,</hi> who fly into their Dens and Thickets, at the very ſound of a <hi>Houſe of Commons?</hi>
+            </p>
+            <p n="2">II. The Neceſſity, and that an indiſpenſible one: The Go<g ref="char:EOLhyphen"/>vernment turn'd <hi>Topſy-Turvy,</hi> no Law, no Rule, all in a ſtate of War; all Treaties broken, all Obligations ceas'd; and yet the <hi>People</hi> muſt not come together to know why or wherefore they Fight, or how they may avoid deſtroying one another; they muſt hack and cut one another to pieces blindfold, and to no other End, but to ſave the <hi>Jeſuits,</hi> and the <hi>Knaves,</hi> and to ruin themſelves: But the moſt Reverend <hi>Biſhops</hi> are told, that they ſhall have a <hi>Free Parliament</hi> as ſoon as ever the <hi>Prince of</hi>
+               <pb n="14" facs="tcp:46601:10"/> 
+               <hi>Orange</hi> has quitted this Realm; that is, ſuch a <hi>Free Parliament</hi> as they were like to have had before the <hi>Prince</hi> came hither, ſhufft'd, cut, and pack'd, by Mr. <hi>Brent</hi> and his <hi>Miſſionaries;</hi> or perhaps ten times worſe, or rather none at all: for the Church of <hi>Rome</hi> is grown ſuch an infamous <hi>Bankrupt,</hi> that no Body will truſt her further than they can command her: She may be com<g ref="char:EOLhyphen"/>par'd to the <hi>Tyger,</hi> which fawns, ſneaks, and lurks, as long as the Hunter is arm'd with his Spear and his Gun; but when once the Weapons are laid down, the <hi>Beaſt</hi> flies upon the un<g ref="char:EOLhyphen"/>wary Foreſter, tears and devours him.</p>
+            <p n="3">III. The Duty: For what better Office could thoſe pious <hi>Prelats</hi> and <hi>Patriots</hi> of their Country do for the Publick-Good, than to make all People Friends, to ſave the Lives of many Thouſands, and to heal all our Wounds and Sores, which they of the <hi>Roman Faith</hi> have inſlicted upon a <hi>People</hi> too kind and good natur'd for ſuch ravenous <hi>Monſters,</hi> who go about ſeek<g ref="char:EOLhyphen"/>ing whom they may devour. <hi>France, Ireland, Hungary,</hi> and the <hi>Valleys of Piedmont</hi> are ſtill reeking with the Blood of their poor innocent <hi>Preys,</hi> and ecchoing with the Lamentations of a <hi>People</hi> ruin'd, by truſting theſe <hi>Crocodiles</hi> too much; and if God in his infinite Mercy had not watch'd over theſe King<g ref="char:EOLhyphen"/>doms, and ſent a <hi>Gabriel</hi> to guard them, they had certainly fal<g ref="char:EOLhyphen"/>len a Victim to the intollerable Pride, the lawleſs Fury, and untractable Barbariety of a ſort of <hi>Animals,</hi> call'd <hi>Catholicks,</hi> ſubtile and treacherous by Cuſtom and Diſcipline, not to be chain'd by any Law, either of God or Man; and therefore every Body knows how <hi>far</hi> we may rely <hi>upon them,</hi> when the <hi>Arch-Angel</hi> leaves us.</p>
+            <closer>
+               <dateline>
+                  <hi>Exeter,</hi> 
+                  <date>Nov. 21. 1688.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="extract">
+            <pb n="15" facs="tcp:46601:10"/>
+            <head>Extract of the States General their Reſolution.</head>
+            <opener>
+               <dateline>
+                  <date>
+                     <hi>Thurſday,</hi> 28th <hi>October,</hi> 1688.</date>
+               </dateline>
+            </opener>
+            <p>UPon mature Deliberation, it is found fit, and reſolved, that notice be given to all their Miniſters abroad, of all the Reaſons which induce their H. and M. to aſſiſt the Prince of <hi>Orange,</hi> going over to <hi>England</hi> in Perſon with Ships and Forces, with Orders to the ſaid Miniſters to make uſe thereof in the ſeveral Courts where they reſide, as they ſhall think moſt convenient; and that it be alſo writ to the ſaid Miniſters, that it is known to all the World that the <hi>Engliſh</hi> Nation hath a good while very much mur<g ref="char:EOLhyphen"/>mured and complained, that the King (no doubt with the Evil Counſel, and Inducement of his Miniſters) had gained upon their Fundamental Laws, and laboured through the violation thereof; and by the bringing in the <hi>Roman</hi> Catho<g ref="char:EOLhyphen"/>lick Religion, to oppreſs their Liberty, and to ruine the Proteſtant Religion, and to bring all under an Arbitrary Government: That as this inverted and unjuſt Conduct was carried on more and more, and the Apprehenſions thereupon were ſtill greater, and that thereby ſuch Diffidence and Averſion was ſtirred up againſt the King, that nothing was to be expected in that Kingdom but general Diſorder and Confuſion. His Highneſs the Prince of <hi>Orange,</hi> upon the ma<g ref="char:EOLhyphen"/>nifold Repreſentations, and the reiterated and earneſt De<g ref="char:EOLhyphen"/>ſire which was made to His Highneſs by ſeveral Lords, and other Perſons of great Conſideration in that Kingdom; as alſo upon the account that Her Royal Highneſs, and His High<g ref="char:EOLhyphen"/>neſs Himſelf, are ſo highly concerned in the Welfare of that Kingdom, could not well endure that through Strife and Diſunion they ſhould run the danger, however it went, of
+<pb n="16" facs="tcp:46601:11"/> being excluded from the Crown, held himſelf obliged to watch over the Welfare of that Kingdom, and to take care thereof; and alſo had the thoughts of aſſiſting the Nation, and giving them a helping-hand, upon ſo many juſt and good Grounds, againſt the Government that oppreſſed them in all manner of ways that lay in his Highneſs's Power, for that His Highneſs was perſwaded that the Welfare of this State (the Care whereof is alſo entruſted to him) was in the high<g ref="char:EOLhyphen"/>eſt manner concerned, that the ſaid Kingdom might continue in Tranquillity, and that all miſunderſtanding between the King and the Nation might be taken away. That His Highneſs well knowing, that to ſucceed in ſo Important and Laudable a Cauſe, and not to be hindred and prevented by thoſe that were evil inclined towards it, it was neceſſary to paſs over into that Kingdom accompanied with ſome Military Forces, hath thereupon made known his Intentions to their Highneſſes, and deſired Aſſiſtance from their Highneſſes, that their High<g ref="char:EOLhyphen"/>neſſes having maturely weighed all things, and conſidered that the King of <hi>France</hi> and <hi>Great Britain</hi> ſtood in very good Cor<g ref="char:EOLhyphen"/>reſpondence and Friendſhip one with the other, which their Highneſſes have been frequently very well aſſured of, and in a ſtrict and particular Alliance; and that their Highneſſes were informed and advertiſed, that their Majeſties had laboured upon a Concert, to divide and ſeparate this State from its Alliances; and that the King of <hi>France</hi> hath, upon ſeveral occaſions, ſhew'd himſelf diſſatisfied with this State, which gave cauſe to fear and apprehend that in caſe the King of <hi>Great Britain</hi> ſhould happen to compaſs his Aim within his Kingdom, and obtain an abſolute Power over his People, that then both Kings, out of Intereſt of State, and Hatred and Zeal againſt the Proteſtant Religion, would endeavour to bring this State to Confuſion, and if poſſible, quite to ſub<g ref="char:EOLhyphen"/>ject it, have reſolved to commend His Highneſs in his un<g ref="char:EOLhyphen"/>dertaking of the aboveſaid Deſigns, and to grant to him for his Aſſiſtance, ſome Ships and Militia, as Auxil aries; that in purſuance thereof, His Highneſs hath declared to their Highneſſes, that he is reſolved, with God's Grace and Favour; to go over into <hi>England,</hi> not with the leaſt inſight or in<g ref="char:EOLhyphen"/>tention to invade or ſubdue that Kingdom, or to remove the King from his Throne, much leſs to make himſ<gap reason="illegible" resp="#MURP" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lf Maſter
+<pb facs="tcp:46601:11"/>
+               <pb facs="tcp:46601:12"/>
+               <pb n="17" facs="tcp:46601:12"/> thereof, or to invert or prejudice the Lawful Succeſſion, as alſo not to drive thence, or perſecute the <hi>Roman</hi>-Catholicks, but only and ſolely to help that Nation, in re-eſtabliſhing the Laws and Priviledges that have been broken, as alſo in main<g ref="char:EOLhyphen"/>taining their Religion and Liberty; and to that end, to fur<g ref="char:EOLhyphen"/>ther and bring it about, that a free and lawful Parliament may be Call'd in ſuch manner, and of ſuch perſons, as are regula<g ref="char:EOLhyphen"/>ted and qualified by the Laws and Form of that Govern<g ref="char:EOLhyphen"/>ment; and that the ſaid Parliament may deliberate upon, and eſtabliſh all ſuch Matters as ſhall be judged neceſſary to aſſure and ſecure the Lords, the Clergy, Gentry, and People, that their Rights, Laws and Priviledges, ſhall be no more violated or broken, that their High and Mightineſſes hope and truſt, that with God's Bleſſing, the Repoſe and Unity of that King<g ref="char:EOLhyphen"/>dom ſhall be re-eſtabliſhed, and the ſame be thereby brought into a condition to be able, powerfully to concur to the com<g ref="char:EOLhyphen"/>mon benefit of <hi>Chriſtendom,</hi> and to the reſtoring and maintain<g ref="char:EOLhyphen"/>ing of Peace and Tranquillity in <hi>Europe.</hi> That Copies hereof be delivered to all their Foreign Miniſters reſiding here to be uſed by them as they ſhall ſee occaſion.</p>
+         </div>
+         <div type="letter">
+            <head>The P. O's Letter to the Engliſh Army.</head>
+            <opener>
+               <salute>Gentlemen and Friends.</salute>
+            </opener>
+            <p>WE have given you ſo full, and ſo true an Account of Our Intentions, in this Expedition in Our Declara<g ref="char:EOLhyphen"/>tion, that as We can add nothing to it, ſo We are ſure you can deſire nothing more of Us. We are come to preſerve your Religion, and to reſtore and eſtabliſh your Liberties and pro<g ref="char:EOLhyphen"/>perties; and therefore We cannot ſuffer Our ſelves to doubt but that all true <hi>Engliſh-Men</hi> will come and coneur with Us, in Our deſire to ſecure theſe Nations from POPERY and SLAVERY. You muſt all plainly ſee, that you are only made uſe of as Inſtruments to enſlave the Nation, and ruine the Proteſtant Religion, and when that is done, you may judge
+<pb n="18" facs="tcp:46601:13"/> what ye your ſelves ought to expect, both from the caſhiering of all the Proteſtant and <hi>Engliſh</hi> Officers and Souldiers in <hi>Ireland,</hi> and by the <hi>Iriſh</hi> Souldiers being brought over to be put in your places; and of which you have ſeen ſo freſh an Inſtance, that we need not put you in mind of it. You know how many of your fellow-Officers have been uſed for their ſtanding firm to the Proteſtant Religion, and to the Laws of <hi>England,</hi> and you cannot ſlatter your ſelves ſo far as to ex<g ref="char:EOLhyphen"/>pect to be better uſed, if thoſe who have broke their word ſo often, ſhould by your means be brought out of thoſe Straits to which they are reduced at preſent. We hope likewiſe, that you will not ſuffer your ſelves to be abuſed by a falſe Notion of Honour, but that you will in the firſt place conſider, what you owe to Almighty God and your Religion, to your Country, to your Selves, and to your Poſterity, which you, as Men of Honour, ought to prefer to all private Conſidera<g ref="char:EOLhyphen"/>tions and Engagements whatſoever. We do therefore expect, that you will conſider the Honour that is now ſet before you, of being the Inſtruments of ſerving your Country, and ſe<g ref="char:EOLhyphen"/>curing your Religion, and We will ever remember the Service you ſhall do Us upon this Occaſion; and will promiſe unto you, that We ſhall place ſuch particular Marks of our Favour on every one of you, as your Behaviour at this time ſhall de<g ref="char:EOLhyphen"/>ſerve of Us, and the Nation; in which we will make a great Diſtinction of thoſe that ſhall come ſeaſonably to join their Arms with Ours, and you ſhall find us to be</p>
+            <closer>
+               <signed>Your Well-wiſhing, and Aſſured Friend, <hi>W. H. P. O.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="part">
+            <pb n="19" facs="tcp:46601:13"/>
+            <head>An Account of a wicked deſign of Poyſoning the <hi>Prince</hi> of <hi>Orange</hi> be<g ref="char:EOLhyphen"/>fore he came out of <hi>Holland.</hi> ALSO, A Relation from the City of <hi>Orange</hi> of a ſtrange METEOR, repreſenting a <hi>Crown of Light,</hi> that was there ſeen in the Air, <hi>May</hi> the <hi>6th,</hi> 1688.</head>
+            <head type="sub">In a Letter from a Gentleman in <hi>Amſterdam,</hi> to his Friend in <hi>London,</hi> Octob. 1. 1688.</head>
+            <div type="letter">
+               <opener>
+                  <salute>SIR,</salute>
+               </opener>
+               <p>THE two incloſed Relations are ſent me from an Eminent Divine, now at the <hi>Hague,</hi> you will do well to make them publick: The Poyſoning Buſineſs I doubt not but was contriv'd by a ſort of Men that in all Ages ſtick at nothing to carry on their Bloody Religion.</p>
+            </div>
+            <div type="account">
+               <pb n="20" facs="tcp:46601:14"/>
+               <head>An Account of a Deſign of Poiſoning the PRINCE of <hi>ORANGE.</hi>
+               </head>
+               <p>THere is a Man of <hi>Lunenburg Wolfenbuttel,</hi> who being fal<g ref="char:EOLhyphen"/>len in Debt in <hi>Amſterdam,</hi> upon his Fathers Death, his Brother taking no Care of him, was put in Priſon and brought extream low; yet he was brought out by the means of a Friend: And ſoon after, a man who pretended to know him, and to have ſeen him before, (though the <hi>German</hi> believes he never ſaw him) ſeem'd to take pitty on him, ſeeing him in a Coffee-Houſe, and gave him a Ducatoon, and promiſed he ſhould never want; ſo he entred into a great familiarity with him, but would never let him know where he lodged, only he gave him Appointments in Coffee-Houſes, and Taverns, and fed him from time to time with Mony: At laſt, after ſome weeks, he drew him into a ſecret Walk in the Grounds that are not yet built, and ask'd him if he had a Heart to do a bold Thing? The <hi>German</hi> ſaid he had, if it were not ſuch a Thing as might bring him to a Scaffold. The other ſaid, There was no Danger, only it would require a little hardineſs. Then he ask'd an Oath of the <hi>German,</hi> That he would either do that which he was to propoſe to him, or preſently go out of the Country. The <hi>German</hi> ſaid, He could not go out of the Country for he had no Mony: And then he gave him eight Ducats in Gold, and then he ſwore the Oath: So the other propoſed to him the poyſoning the Prince of <hi>Orange:</hi> that ſtartled him, but apprehending he ſhould be killed if he refuſed it, he undertook it. The other told him, That in the laſt Age men had tryed Stabbing or ſhooting, but theſe were dangerous Things, Poyſoning was a ſafe and ſure way: He added, That he ſhould have 3000 Piſtols in hand, and a Fortune beſides. The <hi>German</hi> ask'd, From whom? The other, who called himſelf <hi>Corne,</hi> and ſpoke
+<pb n="21" facs="tcp:46601:14"/> French like a Stranger, but the <hi>German</hi> cannot judge what Nation he was of; the other I ſay, ſaid to him, That if he had the Money, he was not concern'd to know from whence it came. In ſhort, he made a propoſition to the <hi>German,</hi> giving him a Quill with a Water in it, carefully ſtop'd, and told him, that he (the <hi>German)</hi> lodged in the Houſe of an inconſiderable Man, of whom no regard would be had; and if he would cut the Quill, ſo that one drop of the Liquor fell into any thing that his Land-lord was to drink, he would be certainly dead before to morrow; and if he would begin with him, one ſhould come to him to ſuch a place to mor<g ref="char:EOLhyphen"/>row, having a white Feather in his Hat, who ſhould deli<g ref="char:EOLhyphen"/>ver him 1500 Piſtols, and inſtruct him how to manage the Poiſoning the Prince, which he ſhould find would be eaſy and ſafe; then upon his going on he ſhould have the reſt of the Money. The <hi>German</hi> went Home, but was ſtruck with Hor<g ref="char:EOLhyphen"/>ror, and ſo reſolved to keep that part of his Oath of go<g ref="char:EOLhyphen"/>ing out of the Country; yet he ſhew'd another his Gold, and told him of his going Home; But from <hi>Oſnaburgh</hi> he writ to one about the Prince; this happned in the beginning of <hi>March</hi> laſt. So he was deſired to come back, which he did, and the Matter being brought into the Court of <hi>Holland,</hi> up<g ref="char:EOLhyphen"/>on an Oath of Secreſy, Mr. <hi>Halewyn</hi> Deputy of <hi>Dort,</hi> and another, were ſent with him to <hi>Amſterdam;</hi> they found many collatoral Confirmations of part of his Story, but no ſuch Man could be ſeen in all the places where he had met with him formerly; the <hi>German</hi> came to the <hi>Hague,</hi> and being in the Fair, ſeeing one of the Shews, and a <hi>Dane</hi> with him, as they came out in a huge Crowd, the <hi>German</hi> complain'd that one ſtruck him on the Breaſt with a Battoon: But this was not minded till they were quite out, and he found one had ſtruck at him, as it ſeems, with a <hi>Stillet to</hi> under the left Pap, his Cloak and Coat were cut, and the Wound proved but a ſlight ſcratch: The Quill with the Poiſon in it ſealed, is in the Court. It ſeems, a <hi>German</hi> was thought a fit Tool, being of a Nation that would not be eaſily ſuſpected; and the putting it on a <hi>Lutheran</hi> would have been thought a Maſter-piece. I give you this Account, which I will anſwer for, to ſatisfy ſome of your Friends, both here and in <hi>England,</hi> who will perhaps de<g ref="char:EOLhyphen"/>ſire to know the certainty of this Matter.</p>
+            </div>
+            <div type="account">
+               <pb n="22" facs="tcp:46601:15"/>
+               <head>A Relation from the City of <hi>Orange,</hi> of a Crown of <hi>LIGHT</hi> that was there ſeen in the Air, the <hi>6th</hi> of <hi>May,</hi> 1688.</head>
+               <p>ON the <hi>6th</hi> of <hi>May,</hi> 1665, when his Royal Highneſs, the Prince of <hi>Orange,</hi> took poſſeſſion of that Principality, and whilſt his Deputy Mr. <hi>Ziulechem</hi> was taking the Oath of Allegiance of all the people in the Prince's Name; which was done in the Fields, in the Encloſure of the old Roman Cirque that yet remains; over the Chair of State that was ſet there for the Prince, a Crown of Light appear'd in the Air, and ho<g ref="char:EOLhyphen"/>ver'd over the Chair above an hour: And now this Year, 1688, the ſame day of the Month, in the ſame place, the like Crown appear'd and continued there three Hours, all the people of <hi>Orange</hi> looking on; all the difference between this Years Crown, and that of 1665, being, that this had an Edge of Red about it.</p>
+               <p>This is written from <hi>Orange</hi> by an Old profeſſor of Phyſick, that is paſt ſixty, and not apt to take Things upon Truſt; he writes that he himſelf, as well as all the Town, look'd on it for above two Hours with great admiration of that ſtrange Meteor.</p>
+               <p>An Account of that ſtrange Meteor in 1665, is related by <hi>Aitrema</hi> in his 5 <hi>th</hi> Tome, <hi>fol.</hi> 595. well atteſted, and he is a good Author.</p>
+            </div>
+         </div>
+         <div type="speech">
+            <pb n="23" facs="tcp:46601:15"/>
+            <head>Lord <hi>Del—r's</hi> Speech.</head>
+            <p>THE occaſion of this, is to give you my Thoughts upon the preſent Conjuncture, which concerns not only you, but every Proteſtant, and Free-born Man of <hi>England,</hi> I am confident, that wiſhes well to the Proteſtant Re<g ref="char:EOLhyphen"/>ligion and his Country; and I am perſwaded that every Man of you thinks both in danger, and now to lie at ſtake. I am alſo perſwaded, that every Man of you will rejoyce to ſee Re<g ref="char:EOLhyphen"/>ligion and Property ſettled; if ſo, then I am not miſtaken in my Conjectures concerning you. Can you ever hope for a bet<g ref="char:EOLhyphen"/>ter Occaſion to root out <hi>POPERY</hi> and <hi>SLAVERY,</hi> than by joining with the <hi>P.</hi> of <hi>O.</hi> whoſe Propoſals contain and ſpeak the Deſires of every Man that loves his Religion and Liberty? And in ſaying this, I will invite you to nothing but what I will do my ſelf; and I will not deſire any of you to go any further than I will move my ſelf; neither will I put you upon any Dan<g ref="char:EOLhyphen"/>ger where I will not take ſhare in it. I propoſe this to you, not as you are my Tenants, but as my Friends, and as you are <hi>Engliſhmen.</hi> No Man can love fighting for its own ſake, nor find any pleaſure in danger. And you may imagine, I would be very glad to ſpend the reſt of my days in peace, I having had ſo great a ſhare in Troubles; but I ſee all lies at ſtake, I am to chuſe whether I will be a <hi>Slave</hi> and a <hi>Papist,</hi> or a <hi>Prote<g ref="char:EOLhyphen"/>ſtant</hi> and a <hi>Free-man;</hi> and therefore the Caſe being thus, I ſhall think my ſelf falſe to my Country, if I ſit ſtill at this time. I am of Opinion, that when the Nation is deliver'd, it muſt be by Force or by Miracle: It would be too great a preſumption to expect the latter, and therefore our Deliverance muſt be by Force, and I hope this is the Time for it; a Price is now put into our Hands, and if it miſcarry for want of Aſſiſtance, our Blood is upon our own Heads; and he that is paſſive at this
+<pb n="24" facs="tcp:46601:16"/> Time, may very well expect that God will mock when the Fear of Affliction comes upon him, which he thought to avoid by being indifferent.</p>
+            <p>If the K. prevails, farewel Liberty of Conſcience, which has hitherto been allowed, not for the ſake of the Proteſtants, but in order to ſettle Popery. You may ſee what to expect if he get the better; and he hath lately given you, of this Town, a taſte of the Method, whereby he will maintain his Army. And you may ſee of what ſort of people he intends his Army to conſiſt; and if you have not a mind to ſerve ſuch Maſters, then ſtand not by and ſee your Country-men periſh, when they are endeavouring to defend you.</p>
+            <p>I promiſe this on my Word and Honour, to every Te<g ref="char:EOLhyphen"/>nant that goes along with me, That if he fall, I will make his Leaſe as good to his Family, as it was when he went from home. The thing then which I deſire, and your Coun<g ref="char:EOLhyphen"/>try does expect from you, is this, That every Man that hath a tollerable Horſe, or can procure one, will meet me on <hi>Boden</hi>-Downs to morrow where I Rendezvouze: But if any of you is rendred unable by reaſon of Age, or any other juſt Excuſe, then that he would mount a fitter perſon, and put five pounds in his pocket. Thoſe that have not, nor can<g ref="char:EOLhyphen"/>not procure Horſe, let them ſtay at home and aſſiſt with their purſes, and ſend it to me with a particular of every Mans Contribution. I impoſe on no Man, but let him lay his Hand on his Heart, and conſider what he is willing to give to recover his Religion and Liberty; and to ſuch I pro<g ref="char:EOLhyphen"/>miſe, and to all that go along with me, that if we prevail, I will be as induſtrious to have him recompenſed for his Charge and Hazard, as I will be to ſeek it for my ſelf. This Advice I give to all that ſtay behind, That when you hear the Papiſts have committed any Out-rage, or any Riſing, that you will get together; for it is better to meet your danger than expect it. I have no more to ſay, but that I am willing to loſe my Life in the Cauſe, if God ſee it good, for I was never unwilling to die for my Religion and Country.</p>
+         </div>
+         <div type="letter">
+            <pb n="25" facs="tcp:46601:16"/>
+            <head>Prince GEORGE'S LETTER TO THE KING.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>WITH a Heart full of Grief am I forced to Write, that prudence will not permit me to ſay to your Face. And may I e'er find Credit with your Majeſty, and protection from Heaven, as what I now do, is free from Paſſion, Vanity or Deſign, with which Actions of this Nature are too often accompanied. I am not ignorant of the frequent Miſchiefs wrought in the World by factious pretences of Religion; but were not Religion the moſt juſtifiable Cauſe, it would not be made the moſt ſpecious pretence. And your Majeſty has always ſhewn too uninte<g ref="char:EOLhyphen"/>reſted a Senſe of Religion, to doubt the juſt Effects of it in one whoſe Practices have, I hope, never given the World cauſe to cenſure his real conviction of it, or his backwardneſs to perform what his Honour and Conſcience prompt him to: How then can I longer diſguiſe my juſt Concern for that Religion in which I have been ſo happily Educated, which my Judgment throughly convinces me to be beſt; and for the Support of which I am ſo highly intereſted in my Na<g ref="char:EOLhyphen"/>tive Country? And is not <hi>England</hi> now by the moſt endear<g ref="char:EOLhyphen"/>ing Tie become ſo?</p>
+            <pb n="26" facs="tcp:46601:17"/>
+            <p>Whilſt the reſtleſs Spirits of the Enemies of the <hi>RE<g ref="char:EOLhyphen"/>FORMED RELIGION,</hi> back'd by the cruel Zeal and prevailing power of <hi>France,</hi> juſtly alarm and unite all the Proteſtant Princes of <hi>Chriſtendom,</hi> and engage them in ſo vaſt an Expence for the ſupport of it, can <hi>I</hi> act ſo degenerous and mean a part, as to deny my Concurrence to ſuch wor<g ref="char:EOLhyphen"/>thy Endeavours for diſabuſing of your Majeſty by the Rein<g ref="char:EOLhyphen"/>forcement of thoſe Laws, and Eſtabliſhment of that Govern<g ref="char:EOLhyphen"/>ment, on which alone depends the well-being of your Ma<g ref="char:EOLhyphen"/>jeſty, and of the <hi>PROTEST ANT RELIGION</hi> in <hi>Europe.</hi> This, Sir, is that irreſiſtable and only Cauſe that cou'd come in Competition with my Duty and Obligations to your Majeſty, and be able to tear me from You, whilſt the ſame Affectionate Deſire of ſerving You continues in me. Could I ſecure your Perſon by the Hazard of my Life, I ſhould think it could not be better Employed: And wou'd to God theſe Your diſtracted Kingdoms might yet receive that ſatisfactory Compliance from your Majeſty in all their juſtifiable pretenſi<g ref="char:EOLhyphen"/>ons, as might upon the only ſure Foundation, that of the Love and Intereſt of your Subjects, eſtabliſh your Government, and as ſtrongly Unite the Hearts of all your Subjects to You, as is that of,</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your Majeſty's moſt Humble, and moſt Obedient Son and Servant.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="27" facs="tcp:46601:17"/>
+            <head>The Lord <hi>CHURCHIL</hi>'s LETTER to the KING.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>SInce men are ſeldom ſuſpected of Sincerity, when they act contrary to their Intereſts; and though my dutiful Behaviour to your <hi>Majesty</hi> in the worſt of Times, (for which I acknowledge my poor Services much over<g ref="char:EOLhyphen"/>paid) may not be ſufficient to incline You to a charitable Inter<g ref="char:EOLhyphen"/>pretation of my Actions, yet I hope, the great Advantage I en<g ref="char:EOLhyphen"/>joy under Your <hi>Majeſty,</hi> which I can never expect in any other Change of Government, may reaſonably convince Your <hi>Majeſty</hi> and the World, that <hi>I</hi> am acted by a higher Principle, when <hi>I</hi> offer that violence to my inclination and intereſt, as to deſert Your <hi>Majeſty</hi> at a time when your Affairs ſeem to challenge the ſtricteſt Obedience from all your Subjects, much more from one who lies under the greateſt perſonal Obligations imaginable to Your <hi>Majeſty.</hi> This Sir, could proceed from nothing but the in<g ref="char:EOLhyphen"/>violable Dictates of my <hi>CONSCIENCE,</hi> and a neceſſary con<g ref="char:EOLhyphen"/>cern for my <hi>RELIGION</hi> (which no good man can oppoſe) and with which <hi>I</hi> am inſtructed nothing ought to come in Competition; Heaven knows with what partiality my dutiful Opinion of Your <hi>Majeſty</hi> hath hitherto repreſented thoſe un<g ref="char:EOLhyphen"/>happy Deſigns, which inconſiderate and ſelf-intereſted men have framed againſt Your <hi>Majeſty</hi>'s true Intereſt and the Pro<g ref="char:EOLhyphen"/>teſtant Religion. But as <hi>I</hi> can no longer joyn with ſuch to give a pretence by Conqueſt to bring them to effect, ſo will <hi>I</hi> always with the hazard of my Life and Fortune (ſo much Your <hi>Majeſty</hi>'s due) endeavour to preſerve Your Royal perſon and Lawful Rights, with all the tender Concern and dutiful Reſpect that becomes,</p>
+            <closer>
+               <salute>SIR,</salute> 
+               <signed>Your Majesty's moſt Dutiful and moſt Obliged Subject and Servant.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="28" facs="tcp:46601:18"/>
+            <head>The Princeſs <hi>ANNE</hi> of <hi>Denmark</hi>'s LETTER to the Q<g ref="char:V">Ʋ</g>EEN.</head>
+            <opener>
+               <salute>MADAM,</salute>
+            </opener>
+            <p>I Beg your pardon if I am ſo deeply affected with the ſur<g ref="char:EOLhyphen"/>priſing News of the Princes being gone, as not to be able to ſee You, but to leave this Paper to Expreſs my hum<g ref="char:EOLhyphen"/>ble Duty to the King and your Self; and to let You know that I am gone to abſent my ſelf to avoid the King's diſ<g ref="char:EOLhyphen"/>pleaſure, which I am not able to bear, either againſt the Prince or my Self: And I ſhall ſtay at ſo great a diſtance, as not to re<g ref="char:EOLhyphen"/>turn before I hear the happy News of a Reconcilement: And as I am confident the Prince did not leave the King with any other deſign, than to uſe all poſſible means for His preſerva<g ref="char:EOLhyphen"/>tion; ſo I hope You will do me the Juſtice to believe that I am uncapable of following Him for any other End. Never was any one in ſuch an unhappy Condition, ſo divided between Duty and Affection, to a Father, and a Husband; and there<g ref="char:EOLhyphen"/>fore I know not what to do, but to follow one to preſerve the other. I ſeo the general falling off of the Nobility and Gen<g ref="char:EOLhyphen"/>try, who a vow to have no other end, than to prevail with the King to ſecure their Religion, which they ſaw ſo much in dan<g ref="char:EOLhyphen"/>ger by the <hi>Violent Gounſels of the Prieſts;</hi> who to promote their own Religion, did not care to what dangers they expoſed the King: I am fully perſwaded that the Prince of <hi>Orange</hi> deſigns the King's ſafety and preſervation, and hope all things may be compoſed without more Blood-ſhed, by the Calling a <hi>Parlia<g ref="char:EOLhyphen"/>ment.</hi> God grant a happy End to theſe Troubles, that the King's Reign may be proſperous, and that I may ſhortly meet You in perfect peace and ſafety; till when, let me beg You to continue the ſame favourable Opinion that You have hither to bad of;</p>
+            <closer>
+               <signed>Your moſt Obedient Daughter and Servant, <hi>ANNE.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="document">
+            <pb n="29" facs="tcp:46601:18"/>
+            <head>A MEMORIAL OF THE Proteſtants of the Church of <hi>England</hi> Preſented to their Royal Highneſſes the Prince and Princeſs of <hi>ORANGE.</hi>
+            </head>
+            <p>YOur Royal Highneſſes cannot be ignorant that the Pro<g ref="char:EOLhyphen"/>teſtants of <hi>England,</hi> who continue true to their Religi<g ref="char:EOLhyphen"/>on, and the Government Eſtabliſhed by Law, have been many ways troubled and vexed by reſtleſs contrivances and deſigns of the Papiſts, under pretence of the Royal Autho<g ref="char:EOLhyphen"/>rity, and things required of them unaccountable before God and Man; Eccleſiaſtical Benefices and Preferments taken from them, without any other Reaſon but the King's Pleaſure; that they have been ſummoned and ſentenced by Eccleſiaſtical Commiſſioners, contrary to Law, deprived of their Birth-Right in the free Choice of their Magiſtrates and Repre<g ref="char:EOLhyphen"/>ſentatives; divers Corporations diſſolved; the Legal Security of our Religion and Liberty, eſtabliſhed and ratified by King and Parliament, annull'd and overthrown by a pretended <hi>Diſpenſing Power;</hi> new and unheard of Maxims have been preached, as if Subjects had no Right but what depends on the King's Will and Pleaſure. The <hi>Militia</hi> put into the Hands of perſon; not qualified by Law; and a Popiſh Mercenary Army maintained in the Kingdom in time of peace, abſolutely
+<pb n="30" facs="tcp:46601:19"/> contrary to Law: The Execution of the Law againſt ſeveral high Crimes and Miſdemeanours ſuperceded and prohibited; the Statutes againſt Correſpondence with the Court of <hi>Rome,</hi> Papal Juriſdiction, and Popiſh Prieſts, ſuſpended; that in Courts of Juſtice thoſe Judges are diſplaced who dare acquit them whom the K. would have condemned, as happened to Judge <hi>Powel</hi> and <hi>Holloway</hi> for acquitting the ſeven Biſhops: Liberty of chuſing Members of parliament (notwithſtanding all the Care taken, and proviſion made by Law on that behalf) wholly taken away by <hi>Quo Warranto's</hi> ſerved againſt Corpo<g ref="char:EOLhyphen"/>rations, and the three known Queſtions. All things carried on in open view for the propagation and Growth of popery; for which the Courts of <hi>England</hi> and <hi>France</hi> have ſo long jointly laboured with ſo much Application and Earneſtneſs. Endea<g ref="char:EOLhyphen"/>vours uſed to perſwade your Royal Highneſſes to conſent to Liberty of Conſcience, and abrogating the penal Laws and Teſts, wherein they fell ſhort of their aim.</p>
+            <p>That they moſt humbly implore the protection of your Royal Highneſſes, as to the ſuſpending and incroachments made upon the Law for maintenance of the Proteſtant Reli<g ref="char:EOLhyphen"/>gion, our Civil and Fundamental Rights and priviledge; and that Your Royal Highneſſes would be pleaſed to inſiſt, that the Free parliament of <hi>England,</hi> according to Law, may be reſtored, the Laws againſt Papiſts, prieſts, Papal Juriſdicti<g ref="char:EOLhyphen"/>on, <hi>&amp;c.</hi> put in Execution, and the Suſpending and Diſpen<g ref="char:EOLhyphen"/>ſing power declared null and void; the Rights and privi<g ref="char:EOLhyphen"/>ledges of the City of <hi>London,</hi> the free Choice of their Magi<g ref="char:EOLhyphen"/>ſtrates, and the Libertics as well of that as other Corpora<g ref="char:EOLhyphen"/>tions reſtored, and all things returned to their ancient Chan<g ref="char:EOLhyphen"/>nel, <hi>&amp;c.</hi>
+            </p>
+         </div>
+         <div type="declaration">
+            <pb n="31" facs="tcp:46601:19"/>
+            <head>THE PRINCE Of ORANGE HIS DECLARATION of <hi>Novemb.</hi> 28. 1688.</head>
+            <p>WE have in the courſe of Our whole Life, and more particularly by the apparent Hazards both by Sea and Land, to which We have ſo lately expoſed Our Perſon, given to the whole World ſo high and un<g ref="char:EOLhyphen"/>doubted proofs of Our fervent Zeal for the <hi>Proteſtant Religion,</hi> that We are fully conſident no true <hi>Engliſh-man,</hi> and good <hi>Pro<g ref="char:EOLhyphen"/>teſtant,</hi> can entertain the leaſt Suſpicion of Our firm Reſolution, rather to ſpend Our deareſt Blood, and periſh in the Attempt, than not carry on the Bleſſed and Glorious Deſign, which by the Favour of Heaven We have ſo Succeſsfully begun, to reſcue <hi>England, Scotland,</hi> and <hi>Ireland</hi> from <hi>Slavery</hi> and <hi>Popery,</hi> and in a <hi>Free Parliament</hi> to Eſtabliſh the Religion, the Laws and the Liberties of thoſe Kingdoms, upon ſuch a ſure and laſting Foun<g ref="char:EOLhyphen"/>dation, that it ſhall not be in the Power of any Prince for the future to introduce <hi>Popery</hi> and <hi>Tyranny.</hi>
+            </p>
+            <p>Towards the more eaſy Compoſing of this great Deſign, We have not been hitherto deceived in the juſt expectation We had of the Concurrence of the Nobility, Gentry, and People of <hi>England</hi> with Us, for the Security of their Religion, the Reſti<g ref="char:EOLhyphen"/>tution of the Laws, and Re-eſtabliſhment of their Liberties and Properties: Great Numbers of all Ranks and Qualities having joined themſelves to Us; and others at great diſtances from Us, have taken up Arms and declared for Us. And
+<pb n="32" facs="tcp:46601:20"/> which we cannot but particularly mention, in that Army which was raiſed to be the Inſtrument of <hi>Slavery</hi> and <hi>Popery,</hi> many (by the ſpecial Providence of God) both Officers and Com<g ref="char:EOLhyphen"/>mon Souldiers, have been touched with ſuch a feeling Senſe of Religion and Honour, and of true Affection for their Native Country, that they have already deſerted the illegal Service they were ingaged in, and have come over to Us; and have given Us full Aſſurance, from the reſt of the Army, that they will certainly follow this Example, as ſoon as with Our Army we ſhall approach near enough to receive them, without the Hazard of being prevented and betray'd. To which End, and that We may the ſooner execute this juſt and neceſſary Deſign We are ingaged in for the publick Safety and Deliverance of theſe Nations, We are reſolved, with all poſſible Diligence, to advance forward, that a <hi>Free Parliament</hi> may be forthwith call<g ref="char:EOLhyphen"/>ed, and ſuch Preliminaries adjuſted with the King, and all Things firſt ſettled upon ſuch a Foot according to Law, as may give Us and the whole Nation juſt Reaſon to believe the King is diſpoſed to make ſuch neceſſary Condeſcentions on His part, as will give intire Satisfaction and Security to all, and make both King and People once more Happy.</p>
+            <p>And that We may effect all this, in the way moſt agreeable to Our Deſires, if it be poſſible, without the Effuſion of any Blood, except of thoſe execrable Criminals who have juſtly forfeited their Lives for betraying the Religion, and Subver<g ref="char:EOLhyphen"/>ting the Laws of their Native Country, We do think fit to declare, that as We will offer no violence to any but in Our own neceſſary Defence; ſo We will not ſuffer any injury to be done to the perſon even of a Papiſt, provided he be found in ſuch place, and in ſuch condition and circumſtances as the Laws require. So We are reſolved and do declare that all Pa<g ref="char:EOLhyphen"/>piſts, who ſhall be found in open Arms, or with Arms in their Houſes, or about their Perſons, or in any Office or Imploy<g ref="char:EOLhyphen"/>ment Civil or Military, upon any pretenfe whatſoever, contrary to the known Laws of the Land, ſhall be treated by Us and Our Forces not as Souldiers and Gentlemen, but as Robbers, Free-Booters and <hi>Banditti;</hi> they ſhall be incapable of Quarter, and intirely delivered up to the diſcretion of Our Souldiers. And We do further declare, that all perſons who ſhall be found any ways aiding and aſſiſting to them, or ſhall march under
+<pb facs="tcp:46601:20"/>
+               <pb facs="tcp:46601:21"/>
+               <pb n="33" facs="tcp:46601:21"/> their Command, or ſhall join with or ſubmit to them in the Diſcharge or Execution of their Illegal Commiſſions or Au<g ref="char:EOLhyphen"/>thority, ſhall be looked upon as Partakers of their Crimes, Enemies to the Laws, and to their Country.</p>
+            <p>And whereas we are certainly informed that great Num<g ref="char:EOLhyphen"/>bers of Armed Papiſts have of late reſorted to <hi>London</hi> and <hi>Weſtminſter,</hi> and parts adjacent, where they remain, as we have reaſon to ſuſpect, not ſo much for their own Security, as out of a wicked and barbarous Deſign to make ſome deſpe<g ref="char:EOLhyphen"/>rate Attempt upon the ſaid Cities, and their Inhabitants, by Fire, or a ſudden Maſſacre, or both; or elſe to be the more ready to joyn themſelves to a Body of French Troops deſign<g ref="char:EOLhyphen"/>ed, if it be poſſible, to land in <hi>England,</hi> procured of the French King, by the Intereſt and Power of the Jeſuits in pur<g ref="char:EOLhyphen"/>ſuance of the Engagements, which at the Inſtigation of that peſtilent Society, his moſt Chriſtian Majeſty, with one of his Neighbouring Princes of the ſame Communion, has entred in<g ref="char:EOLhyphen"/>to for the utter Extirpation of the Proteſtant Religion out of <hi>Europe.</hi> Though we hope we have taken ſuch effectual care to prevent the one, and ſecure the other, that by God's Aſ<g ref="char:EOLhyphen"/>ſiſtance, we cannot doubt but we ſhall defeat all their wicked Enterpriſes and Deſigns.</p>
+            <p>We cannot however forbear, out of the great and tender Concern we have to preſerve the People of <hi>England,</hi> and par<g ref="char:EOLhyphen"/>ticularly thoſe great and populous Cities, from the cruel Rage and bloody Revenge of the Papiſts, to require and expect from all the Lord-Lieutenants, Deputy-Lieutenants, and Juſtices of Peace, Lord-Mayors, Mayors, Sheriffs, and all other Magiſtrates, and Officers Civil and Military, of all Counties, Cities, Towns of <hi>England,</hi> eſpecially of the County of <hi>Middleſex,</hi> and Cities of <hi>London</hi> and <hi>Weſtminſter,</hi> and Parts adjacent, that they do immediately Diſarm and Secure, as by Law they may and ought, within their reſpective Counties, Cities and Juriſ<g ref="char:EOLhyphen"/>dictions, all Papiſts whatſoever, as Perſons at all Times, but now eſpecially moſt dangerous to the Peace and Safety of the Government, that ſo not only all power of doing Miſchief may be taken from them, but that the Laws, which are the greateſt and beſt Security, may reſume their Force, and be ſtrictly Executed.</p>
+            <pb n="34" facs="tcp:46601:22"/>
+            <p>And We do hereby likewiſe declare, that We will protect and defend all thoſe who ſhall not be afraid to do their Du<g ref="char:EOLhyphen"/>ty in Obedience to theſe Laws. And that for thoſe Magiſtrates and others, of what condition ſoever they be, who ſhall refuſe to aſſiſt Us, and in Obedience to the Laws, to execute vigo<g ref="char:EOLhyphen"/>rouſly what We have required of them, and ſuffer themſelves at this Juncture to be cajoled or terrified out of their Duty, We will eſteem them the moſt Criminal and Infamous of all Men, Betrayers of their Religion, the Laws, and their Na<g ref="char:EOLhyphen"/>tive Country, and ſhall not fail to treat them accordingly; re<g ref="char:EOLhyphen"/>ſolving to expect and require at their Hands the Life of every ſingle Proteſtant that ſhall periſh, and every Houſe that ſhall be burnt or deſtroyed by their Treachery and Cowardiſe.</p>
+            <closer>
+               <signed>
+                  <hi>William Henry,</hi> Prince of <hi>Orange.</hi>
+               </signed>
+               <signed>By his Highneſs ſpecial Command, C. HUYGENS.</signed>
+               <dateline>Given under our Hand and Seal, at our Head<g ref="char:EOLhyphen"/>quarters at <hi>Sherburn-Caſtle,</hi> 
+                  <date>the 28th day of <hi>November,</hi> 1688.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:46601:22"/>
+         </div>
+      </body>
+   </text>
+</TEI>
